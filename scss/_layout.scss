@@ -1,0 +1,8 @@
+// exemple d'utilisation d'une variable
+$base-color : rgba(248,249,250,255);
+$font-main : 'Roboto', sans-serif;
+
+body {
+    background-color: $base-color ;
+    font-family: $font-main;
+}
